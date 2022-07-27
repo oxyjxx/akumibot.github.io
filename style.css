@@ -1,0 +1,146 @@
+body {
+	background: #282C2C;
+}
+.topnav {
+  overflow: hidden;
+  background-color: #202323;
+}
+
+.topnav a {
+  float: left;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 7px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  border-bottom: 3px solid transparent;
+  font-family: 'Oswald', sans-serif;
+}
+
+.topnav a:hover {
+  border-bottom: 3px solid #E4F4F2;
+}
+
+.topnav a.active {
+  border-bottom: 3px solid #E4F4F2;
+}
+.discord {
+  text-decoration: none;
+  display: inline-block;
+  width: 140px;
+  height: 45px;
+  line-height: 45px;
+  border-radius: 45px;
+  margin: 10px 20px;
+  font-family: 'Oswald', sans-serif;
+  font-size: 11px;
+  text-transform: uppercase;
+  text-align: center;
+  letter-spacing: 3px;
+  font-weight: 600;
+  color: #000;
+  background: #E4F4F2;
+  transition: .3s;
+}
+.discord:hover {
+  background: #BCEBE8;
+  color: black;
+  transform: translateY(-7px);
+}
+.tiktok {
+  text-decoration: none;
+  display: inline-block;
+  width: 140px;
+  height: 45px;
+  line-height: 45px;
+  border-radius: 45px;
+  margin: 10px 20px;
+  font-family: 'Oswald', sans-serif;
+  font-size: 11px;
+  text-transform: uppercase;
+  text-align: center;
+  letter-spacing: 3px;
+  font-weight: 600;
+  color: #000;
+  background: #E4F4F2;
+  transition: .3s;
+}
+.tiktok:hover {
+  background: #BCEBE8;
+  color: black;
+  transform: translateY(-7px);
+}
+.logo2 {
+  margin-left: 10px;
+  margin-top: 10px;
+}
+.textinfo {
+  color: #fff;
+  marg
+}
+.logo{
+  float: right;
+  margin-right: 10px;
+  top: 10px;
+  margin-left: 500;
+}
+.textprint {
+  color: #fff;
+  font-family: 'Oswald', sans-serif;
+  float: right;
+  margin-right: 640px;
+  margin-top: -163px;
+  font-size: 4.1rem;
+}
+.textprint2 {
+  color: #fff;
+  font-family: 'Oswald', sans-serif;
+  float: right;
+  margin-right: 477px;
+  margin-top: -108px;
+  font-size: 3.5rem;
+}
+.textprint3 {
+  color: #A4BBBB;
+  font-family: 'Oswald', sans-serif;
+  float: right;
+  margin-right: 490px;
+  margin-top: -40px;
+  font-size: 1.5rem;
+}
+.friends {
+  margin-top: 80px;
+}
+.whatme {
+  color: #fff;
+  font-family: 'Oswald', sans-serif;
+  float: right;
+  margin-right: 590px;
+  margin-top: -215px;
+  font-size: 3.5rem;
+}
+.whatme2 {
+  color: #A4BBBB;
+  font-family: 'Oswald', sans-serif;
+  float: right;
+  margin-right: 375px;
+  margin-top: -150px;
+  font-size: 1.5rem;
+}
+.whatme3 {
+  color: #A4BBBB;
+  font-family: 'Oswald', sans-serif;
+  float: right;
+  margin-right: 589px;
+  margin-top: -128px;
+  font-size: 1.5rem;
+}
+.whatme4 {
+  color: #A4BBBB;
+  font-family: 'Oswald', sans-serif;
+  float: right;
+  margin-right: 221px;
+  margin-top: -105px;
+  font-size: 1.5rem;
+}
